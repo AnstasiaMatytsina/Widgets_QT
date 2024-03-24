@@ -2,7 +2,7 @@
 #define AREA_H
 
 #include <figura.h>
-
+#include <QWidget>
 class Area : public QWidget
 {
  int myTimer; // идентификатор таймера
